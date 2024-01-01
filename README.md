@@ -1,5 +1,8 @@
 # JavaScript-Little-Lemon-Receipt-Maker
 
+> This exercise is based on Coursera course "Programming with JavaScript" with Meta. Please enroll to this course here.
+> 
+
 ## Scenario
 
 In this exercise, you will work with some data provided as an array of objects, listing information about dishes available in the Little Lemon restaurant.
