@@ -115,8 +115,8 @@ function getDiscount( taxBoolean, guests) {
 
 ```
 // Call getDiscount() functions
-getDiscount(true, 2) // True (this is with tax) and there are two guests. This will give $5 discount based on the conditions.
-getDiscount(false, 10) // False (this is without tax) and there are ten guests. This will give $10 based on the conditions.
+getDiscount(true, 2) // True (this is with tax) and there are two guests. This will give $5 discount.
+getDiscount(false, 10) // False (this is without tax) and there are ten guests. This will give $10 discount. 
 ```
 
 ![VSCodium_CGpXy5UTyj](https://github.com/Kwangsa19/JavaScript-Little-Lemon-Receipt-Maker/assets/135963482/b33462ab-8a35-4393-a0ca-97cefec261b0)
