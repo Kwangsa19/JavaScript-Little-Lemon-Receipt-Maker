@@ -1,6 +1,6 @@
 # JavaScript-Little-Lemon-Receipt-Maker
 
-> This exercise is based on Coursera course "Programming with JavaScript" with Meta. Please enroll to this course [here](https://www.coursera.org/learn/programming-with-javascript).
+> This project is based on Coursera course "Programming with JavaScript" with Meta. Please enroll to this course [here](https://www.coursera.org/learn/programming-with-javascript).
 > For your information, this is the week 5 final task. Please keep in mind, there are some dependencies that have to be installed first. Please visit the link above for further information. 
 
 ## Scenario
